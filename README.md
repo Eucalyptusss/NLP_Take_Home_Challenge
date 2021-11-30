@@ -22,7 +22,7 @@ To obtain this data I used Beutiful Soup.
 ![alt text](https://github.com/Eucalyptusss/Reuters-Text-Classification/blob/main/reuters_images/Screen%20Shot%202021-11-30%20at%209.06.25%20AM.png)
 
 ## Results
-![alt text](https://github.com/Eucalyptusss/Reuters-Text-Classification/blob/main/reuters_images/confusion_mat.png)
+![alt text](https://github.com/Eucalyptusss/Reuters-Text-Classification/blob/main/reuters_images/Screen%20Shot%202021-11-30%20at%209.14.52%20AM.png)
 ![alt text](https://github.com/Eucalyptusss/Reuters-Text-Classification/blob/main/reuters_images/Screen%20Shot%202021-11-30%20at%209.13.15%20AM.png)
 
 
